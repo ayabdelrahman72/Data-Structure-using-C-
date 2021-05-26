@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1616509831 source:d:\career build\data structure using c++\chapter7\excerise 1\main.cpp
+	<iostream>
+	"stackLinkedList.h"
+	"stackType.h"
+
+1616509418 source:d:\career build\data structure using c++\chapter7\excerise 1\stacklinkedlist.cpp
+	"stackLinkedList.h"
+	<iostream>
+
+1616506596 d:\career build\data structure using c++\chapter7\excerise 1\stacklinkedlist.h
+
+1616509924 source:d:\career build\data structure using c++\chapter7\excerise 1\stacktype.cpp
+	"stackType.h"
+	<iostream>
+
+1616508330 d:\career build\data structure using c++\chapter7\excerise 1\stacktype.h
+

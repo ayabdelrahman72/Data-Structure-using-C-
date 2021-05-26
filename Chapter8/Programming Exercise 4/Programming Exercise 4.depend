@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1619327354 source:d:\career build\data structure using c++\chapter8\programming exercise 4\queueadt.cpp
+
+1619327529 source:d:\career build\data structure using c++\chapter8\programming exercise 4\queuearraybased.cpp
+	"queueArrayBased.h"
+	<iostream>
+
+1619327513 d:\career build\data structure using c++\chapter8\programming exercise 4\queuearraybased.h
+	"queueADT.h"
+
+1619327354 d:\career build\data structure using c++\chapter8\programming exercise 4\queueadt.h
+
+1619327488 source:d:\career build\data structure using c++\chapter8\programming exercise 4\main.cpp
+	<iostream>
+	"queueArrayBased.h"
+

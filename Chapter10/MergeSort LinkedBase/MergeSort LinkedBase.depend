@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1620338424 source:d:\career build\data structure using c++\chapter10\mergesort linkedbase\main.cpp
+	<iostream>
+	"orderedLinkedList.h"
+
+1620331075 source:d:\career build\data structure using c++\chapter10\mergesort linkedbase\orderedlinkedlist.cpp
+	"orderedLinkedList.h"
+	<stddef.h>
+	<iostream>
+
+1620331075 d:\career build\data structure using c++\chapter10\mergesort linkedbase\orderedlinkedlist.h
+	"linkedListType.h"
+
+1620338424 d:\career build\data structure using c++\chapter10\mergesort linkedbase\linkedlisttype.h
+
+1620338580 source:d:\career build\data structure using c++\chapter10\mergesort linkedbase\linkedlisttype.cpp
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+

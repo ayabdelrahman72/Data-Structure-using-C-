@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1617985355 source:d:\career build\data structure using c++\chapter8\linkedlisttype\linkedlisttype.cpp
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+
+1617902090 d:\career build\data structure using c++\chapter8\linkedlisttype\linkedlisttype.h
+	"linkedListIterator.h"
+
+1618786141 source:d:\career build\data structure using c++\chapter8\linkedlisttype\main.cpp
+	<iostream>
+	"unorderedLinkedList.h"
+	"linkedListType.h"
+	"orderedLinkedList.h"
+
+1616612900 source:d:\career build\data structure using c++\chapter8\linkedlisttype\linkedlistiterator.cpp
+	"linkedListIterator.h"
+	<stddef.h>
+
+1616613358 d:\career build\data structure using c++\chapter8\linkedlisttype\linkedlistiterator.h
+
+1617902090 source:d:\career build\data structure using c++\chapter8\linkedlisttype\unorderedlinkedlist.cpp
+	"unorderedLinkedList.h"
+	<stddef.h>
+	<iostream>
+
+1617902090 d:\career build\data structure using c++\chapter8\linkedlisttype\unorderedlinkedlist.h
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+
+1617983643 source:d:\career build\data structure using c++\chapter8\linkedlisttype\orderedlinkedlist.cpp
+	"orderedLinkedList.h"
+	<stddef.h>
+	<iostream>
+
+1617976735 d:\career build\data structure using c++\chapter8\linkedlisttype\orderedlinkedlist.h
+	"linkedListType.h"
+

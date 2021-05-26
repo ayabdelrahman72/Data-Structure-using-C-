@@ -1,0 +1,4 @@
+only allow this operators:+ - * /
+doesn't allow parenthis 
+allow only numbers that consists of 1 digit
+//the method is working but i didn't know how to return string in function infixToPostfix

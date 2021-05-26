@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1618782133 source:d:\career build\data structure using c++\chapter8\5-splitting a linked list at a given node into 2 sublists\linkedlisttype.cpp
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+
+1618803381 d:\career build\data structure using c++\chapter8\5-splitting a linked list at a given node into 2 sublists\linkedlisttype.h
+
+1618806571 source:d:\career build\data structure using c++\chapter8\5-splitting a linked list at a given node into 2 sublists\main.cpp
+	<iostream>
+	"unorderedLinkedList.h"
+	"orderedLinkedList.h"
+
+1618786085 source:d:\career build\data structure using c++\chapter8\5-splitting a linked list at a given node into 2 sublists\unorderedlinkedlist.cpp
+	"unorderedLinkedList.h"
+	<stddef.h>
+	<iostream>
+
+1618803381 d:\career build\data structure using c++\chapter8\5-splitting a linked list at a given node into 2 sublists\unorderedlinkedlist.h
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+
+1618804591 source:d:\career build\data structure using c++\chapter8\5-splitting a linked list at a given node into 2 sublists\orderedlinkedlist.cpp
+	"orderedLinkedList.h"
+	<stddef.h>
+	<iostream>
+
+1618803381 d:\career build\data structure using c++\chapter8\5-splitting a linked list at a given node into 2 sublists\orderedlinkedlist.h
+	"linkedListType.h"
+

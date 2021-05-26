@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619670773 source:d:\career build\data structure using c++\chapter9\programming exercise 2\main.cpp
+	<iostream>
+	"arrayListType.h"
+
+1619671216 source:d:\career build\data structure using c++\chapter9\programming exercise 2\arraylisttype.cpp
+	"arrayListType.h"
+	<iostream>
+
+1619671216 d:\career build\data structure using c++\chapter9\programming exercise 2\arraylisttype.h
+

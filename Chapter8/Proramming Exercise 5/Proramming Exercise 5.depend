@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1619328524 source:d:\career build\data structure using c++\chapter8\proramming exercise 5\queueadt.cpp
+
+1619329547 source:d:\career build\data structure using c++\chapter8\proramming exercise 5\queuearraybased.cpp
+	"queueArrayBased.h"
+	<iostream>
+
+1619329547 d:\career build\data structure using c++\chapter8\proramming exercise 5\queuearraybased.h
+	"queueADT.h"
+
+1619329432 d:\career build\data structure using c++\chapter8\proramming exercise 5\queueadt.h
+
+1619328524 source:d:\career build\data structure using c++\chapter8\proramming exercise 5\stacklinkedlist.cpp
+	"stackLinkedList.h"
+	<iostream>
+
+1619328524 d:\career build\data structure using c++\chapter8\proramming exercise 5\stacklinkedlist.h
+
+1619329679 source:d:\career build\data structure using c++\chapter8\proramming exercise 5\main.cpp
+	<iostream>
+	"queueArrayBased.h"
+	"stackLinkedList.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1618082086 source:d:\career build\data structure using c++\chapter8\doublylinkedlist\main.cpp
+	<iostream>
+	"doublyLinkedList.h"
+
+1618080425 source:d:\career build\data structure using c++\chapter8\doublylinkedlist\doublylinkedlist.cpp
+	"doublyLinkedList.h"
+	<iostream>
+
+1618067823 d:\career build\data structure using c++\chapter8\doublylinkedlist\doublylinkedlist.h
+	<stddef.h>
+
+1618868504 source:d:\career build\data structure using c++\chapter5\doublylinkedlist\doublylinkedlist.cpp
+	"doublyLinkedList.h"
+	<iostream>
+
+1618869379 d:\career build\data structure using c++\chapter5\doublylinkedlist\doublylinkedlist.h
+	<stddef.h>
+
+1618868444 source:d:\career build\data structure using c++\chapter5\doublylinkedlist\main.cpp
+	<iostream>
+	"doublyLinkedList.h"
+

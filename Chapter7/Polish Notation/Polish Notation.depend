@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1616453123 source:d:\career build\data structure using c++\chapter7\polish notation\main.cpp
+	<iostream>
+	"stackLinkedList.h"
+	"polishNotation.h"
+
+1616447037 d:\career build\data structure using c++\chapter7\polish notation\stacklinkedlist.h
+
+1616452820 source:d:\career build\data structure using c++\chapter7\polish notation\polishnotation.cpp
+	"polishNotation.h"
+	<iostream>
+
+1616453500 d:\career build\data structure using c++\chapter7\polish notation\polishnotation.h
+	"stackLinkedList.h"
+	<iostream>
+
+1616447054 source:d:\career build\data structure using c++\chapter7\polish notation\stacklinkedlist.cpp
+	"stackLinkedList.h"
+	<iostream>
+

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1619140542 source:d:\career build\data structure using c++\chapter8\simulation\main.cpp
+	<iostream>
+
+1619140638 source:d:\career build\data structure using c++\chapter8\simulation\customertype.cpp
+	"customerType.h"
+
+1619146785 d:\career build\data structure using c++\chapter8\simulation\customertype.h
+
+1619146912 source:d:\career build\data structure using c++\chapter8\simulation\servertype.cpp
+	"serverType.h"
+
+1619141727 d:\career build\data structure using c++\chapter8\simulation\servertype.h
+	<string>
+	"customerType.h"
+
+1619148816 source:d:\career build\data structure using c++\chapter8\simulation\serverlisttype.cpp
+	"serverListType.h"
+
+1619148763 d:\career build\data structure using c++\chapter8\simulation\serverlisttype.h
+	"serverType.h"
+
+1619309199 source:d:\career build\data structure using c++\chapter8\simulation\linkedqueuetype.cpp
+	<stddef.h>
+	<iostream>
+
+1619309199 d:\career build\data structure using c++\chapter8\simulation\linkedqueuetype.h
+	"queueADT.h"
+
+1619309199 d:\career build\data structure using c++\chapter8\simulation\queueadt.h
+
+1619149616 source:d:\career build\data structure using c++\chapter8\simulation\queueadt.cpp
+
+1619308938 source:d:\career build\data structure using c++\chapter8\simulation\waitingcustomerqueuetype.cpp
+	"waitingCustomerQueueType.h"
+
+1619311406 d:\career build\data structure using c++\chapter8\simulation\waitingcustomerqueuetype.h
+	"queueArrayBased.h"
+	"customerType.h"
+
+1619311344 source:d:\career build\data structure using c++\chapter8\simulation\queuearraybased.cpp
+	"queueArrayBased.h"
+	<iostream>
+
+1619311316 d:\career build\data structure using c++\chapter8\simulation\queuearraybased.h
+	"queueADT.h"
+

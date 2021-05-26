@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1622046246 source:d:\career build\data structure using c++\chapter11\binary trees\main.cpp
+	<iostream>
+	"binarySearchTree.h"
+	"stackLinkedList.h"
+
+1621806688 source:d:\career build\data structure using c++\chapter11\binary trees\binarytreetype.cpp
+	"binaryTreeType.h"
+	<iostream>
+
+1622046394 d:\career build\data structure using c++\chapter11\binary trees\binarytreetype.h
+	"stackLinkedList.h"
+
+1622046246 source:d:\career build\data structure using c++\chapter11\binary trees\binarysearchtree.cpp
+	"binarySearchTree.h"
+	<iostream>
+
+1622042522 d:\career build\data structure using c++\chapter11\binary trees\binarysearchtree.h
+	"binaryTreeType.h"
+
+1622046607 d:\career build\data structure using c++\chapter11\binary trees\stacklinkedlist.h
+
+1622046487 source:d:\career build\data structure using c++\chapter11\binary trees\stacklinkedlist.cpp
+	"stackLinkedList.h"
+	<iostream>
+

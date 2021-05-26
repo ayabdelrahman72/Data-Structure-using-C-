@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1618807614 source:d:\career build\data structure using c++\chapter8\8-implement nodetype class\linkedlisttype.cpp
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+
+1618807021 d:\career build\data structure using c++\chapter8\8-implement nodetype class\linkedlisttype.h
+	"nodeType.h"
+
+1584205420 source:d:\career build\data structure using c++\chapter8\8-implement nodetype class\main.cpp
+	<iostream>
+
+1618807937 source:d:\career build\data structure using c++\chapter8\8-implement nodetype class\unorderedlinkedlist.cpp
+	"unorderedLinkedList.h"
+	<stddef.h>
+	<iostream>
+
+1618804591 d:\career build\data structure using c++\chapter8\8-implement nodetype class\unorderedlinkedlist.h
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+
+1618806571 d:\career build\data structure using c++\chapter8\8-implement nodetype class\nodetype.h
+
+1618807312 source:d:\career build\data structure using c++\chapter8\8-implement nodetype class\nodetype.cpp
+	"nodeType.h"
+	<stddef.h>
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:d:\career build\data structure using c++\chapter10\selection sort\main.cpp
+	<iostream>
+
+1619755744 source:d:\career build\data structure using c++\chapter10\selection sort\arraylisttype.cpp
+	"arrayListType.h"
+	<iostream>
+
+1619755270 d:\career build\data structure using c++\chapter10\selection sort\arraylisttype.h
+

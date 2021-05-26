@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1615242125 source:d:\career build\data structure using c++\chapter7\highest gpa\main.cpp
+	<iostream>
+	"stackType.h"
+	"stackADT.h"
+	"stackLinkedList.h"
+
+1615154014 source:d:\career build\data structure using c++\chapter7\highest gpa\stackadt.cpp
+	"stackADT.h"
+
+1615234733 d:\career build\data structure using c++\chapter7\highest gpa\stackadt.h
+
+1615234888 source:d:\career build\data structure using c++\chapter7\highest gpa\stacktype.cpp
+	"stackType.h"
+	<iostream>
+
+1615234789 d:\career build\data structure using c++\chapter7\highest gpa\stacktype.h
+	"stackADT.h"
+
+1615247889 d:\career build\data structure using c++\chapter7\highest gpa\stacklinkedlist.h
+
+1615242094 source:d:\career build\data structure using c++\chapter7\highest gpa\stacklinkedlist.cpp
+	"stackLinkedList.h"
+	<iostream>
+

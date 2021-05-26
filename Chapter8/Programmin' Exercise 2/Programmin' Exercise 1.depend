@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1619328036 source:d:\career build\data structure using c++\chapter8\programmin' exercise 1\main.cpp
+	<iostream>
+	"linkedQueueType.h"
+
+1619315412 source:d:\career build\data structure using c++\chapter8\programmin' exercise 1\queueadt.cpp
+
+1619327891 source:d:\career build\data structure using c++\chapter8\programmin' exercise 1\linkedqueuetype.cpp
+	"linkedQueueType.h"
+	<stddef.h>
+	<iostream>
+
+1619321893 d:\career build\data structure using c++\chapter8\programmin' exercise 1\linkedqueuetype.h
+	"queueADT.h"
+
+1619315412 d:\career build\data structure using c++\chapter8\programmin' exercise 1\queueadt.h
+

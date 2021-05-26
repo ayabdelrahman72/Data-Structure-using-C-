@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619969780 source:d:\career build\data structure using c++\chapter10\gerlad rom\main.cpp
+	<iostream>
+	<string>
+
+1619970884 source:d:\career build\data structure using c++\chapter10\gerlad rom\personal info.cpp
+
+1619970884 source:d:\career build\data structure using c++\chapter10\gerlad rom\personalinfo.cpp
+	"PersonalInfo.h"
+
+1619970929 d:\career build\data structure using c++\chapter10\gerlad rom\personalinfo.h
+	<string>
+

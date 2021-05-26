@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1618779605 source:d:\career build\data structure using c++\chapter8\4-dividing a linkedlist into two subsets\main.cpp
+	<iostream>
+	"unorderedLinkedList.h"
+
+1618777297 source:d:\career build\data structure using c++\chapter8\4-dividing a linkedlist into two subsets\linkedlisttype.cpp
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+
+1618776929 d:\career build\data structure using c++\chapter8\4-dividing a linkedlist into two subsets\linkedlisttype.h
+
+1618778961 source:d:\career build\data structure using c++\chapter8\4-dividing a linkedlist into two subsets\linkedlistiterator.cpp
+	"linkedListIterator.h"
+	<stddef.h>
+
+1618778961 d:\career build\data structure using c++\chapter8\4-dividing a linkedlist into two subsets\linkedlistiterator.h
+
+1618779645 source:d:\career build\data structure using c++\chapter8\4-dividing a linkedlist into two subsets\unorderedlinkedlist.cpp
+	"unorderedLinkedList.h"
+	<stddef.h>
+	<iostream>
+
+1618779407 d:\career build\data structure using c++\chapter8\4-dividing a linkedlist into two subsets\unorderedlinkedlist.h
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+

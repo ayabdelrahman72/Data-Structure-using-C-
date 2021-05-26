@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1615036825 source:d:\career build\data structure using c++\chapter4\grade report\main.cpp
+	<iostream>
+	"studentType.h"
+	"courseType.h"
+
+1614977225 source:d:\career build\data structure using c++\chapter4\grade report\persontype.cpp
+	"personType.h"
+	<iostream>
+
+1614977445 d:\career build\data structure using c++\chapter4\grade report\persontype.h
+	<string>
+
+1615036801 source:d:\career build\data structure using c++\chapter4\grade report\coursetype.cpp
+	"courseType.h"
+	<iomanip>
+	<iostream>
+
+1615036488 d:\career build\data structure using c++\chapter4\grade report\coursetype.h
+	<string>
+	<iostream>
+
+1615035743 d:\career build\data structure using c++\chapter4\grade report\studenttype.h
+	<iostream>
+	<vector>
+	"personType.h"
+	"courseType.h"
+
+1615036488 source:d:\career build\data structure using c++\chapter4\grade report\studenttype.cpp
+	"studentType.h"
+	"iomanip"
+

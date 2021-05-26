@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1619827490 source:d:\career build\data structure using c++\chapter10\insertion sort linked based\main.cpp
+	<iostream>
+	"unorderedLinkedList.h"
+
+1619845786 source:d:\career build\data structure using c++\chapter10\insertion sort linked based\unorderedlinkedlist.cpp
+	"unorderedLinkedList.h"
+	<stddef.h>
+	<iostream>
+
+1619825792 d:\career build\data structure using c++\chapter10\insertion sort linked based\unorderedlinkedlist.h
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+
+1619823840 d:\career build\data structure using c++\chapter10\insertion sort linked based\linkedlisttype.h
+
+1619823847 source:d:\career build\data structure using c++\chapter10\insertion sort linked based\linkedlisttype.cpp
+	"linkedListType.h"
+	<stddef.h>
+	<iostream>
+

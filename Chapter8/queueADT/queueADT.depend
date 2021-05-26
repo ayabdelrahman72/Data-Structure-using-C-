@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1619130901 source:d:\career build\data structure using c++\chapter8\queueadt\main.cpp
+	<iostream>
+	"queueArrayBased.h"
+	"linkedQueueType.h"
+
+1619130476 source:d:\career build\data structure using c++\chapter8\queueadt\queueadt.cpp
+
+1619130305 d:\career build\data structure using c++\chapter8\queueadt\queueadt.h
+
+1619136345 source:d:\career build\data structure using c++\chapter8\queueadt\queuearraybased.cpp
+	"queueArrayBased.h"
+	<iostream>
+
+1619136330 d:\career build\data structure using c++\chapter8\queueadt\queuearraybased.h
+	"queueADT.h"
+
+1619131214 d:\career build\data structure using c++\chapter8\queueadt\linkedqueuetype.h
+	"queueADT.h"
+
+1619131214 source:d:\career build\data structure using c++\chapter8\queueadt\linkedqueuetype.cpp
+	"linkedQueueType.h"
+	<stddef.h>
+	<iostream>
+
